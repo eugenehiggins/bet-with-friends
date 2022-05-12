@@ -1,0 +1,26 @@
+
+.App {
+  background-color: var(--bg-color);
+  min-height: 100vh;
+  color: white;
+}
+
+.header {
+  text-align: center;
+  width: 100%;
+  border-bottom: 2px solid var(--main-accent-color);
+}
+
+.MuiGrid-container {
+  margin-top: 0px;
+  margin-left: 0px;
+  .css-1equabv-MuiGrid-root {
+    background-color: var(--bg-light-color);
+
+    .sidebar {
+      height: calc(100vh - 152px);
+
+    }
+  }
+}
+
