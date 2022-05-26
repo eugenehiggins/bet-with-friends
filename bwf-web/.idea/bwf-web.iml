@@ -13,5 +13,7 @@
     <orderEntry type="library" name="@types/react-bootstrap" level="application" />
     <orderEntry type="library" name="@types/react-dom" level="application" />
     <orderEntry type="library" name="@types/react-router-dom" level="application" />
+    <orderEntry type="library" name="@types/react" level="application" />
+    <orderEntry type="library" name="@types/create-react-class" level="application" />
   </component>
 </module>
